@@ -1,9 +1,3 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "IEEE ITSC 2020"
+    url: https://www.ieee-itsc2020.org

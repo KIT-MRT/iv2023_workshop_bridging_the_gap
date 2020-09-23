@@ -21,8 +21,9 @@ This [IEEE ITSC 2020](https://ieee-itsc2020.org/) workshop took place on Septemb
 |14:45 - 15:10 | *Paper Presentation:* Two-Stream Networks for Lane-Change Prediction of Surrounding Vehicles (**David Fernandez Llorca**, Mahdi Biparva, Rubén Izquierdo, John Tsotsos) \[[arXiv](https://arxiv.org/abs/2008.10869),[slides](/assets/slides/TwoStreamPresentationITSC2020.pdf)\]
 |15:10 - 15:35 | *Paper Presentation:* Vehicle Trajectory Prediction in Crowded Highway Scenarios  Using Bird Eye View  Representations and CNNs (**Rubén Izquierdo**, Álvaro Quintanar, Ignacio Parra Alonso, David Fernández-Llorca, Miguel  A. Sotelo) \[[arXiv](https://arxiv.org/abs/2008.11493),[slides](/assets/slides/R_Izquierdo_ITSC2020.pdf)\]
 |15:35 - 15:45 | *Coffee break*
-|15:45 - 16:30 | *Invited Talk:* Pedestrian Prediction by Planning using Deep Neural Networks (**Eike Rehder**, Mercedes-Benz AG)
-|16:30 - 17:15 | *Moderated Panel Discussion:* Requirements for Interactive Prediction and Planning Benchmarking (**Ö. Sahin Tas**, chair)
+|15:45 - 16:45 | *Invited Talk:* Pedestrian Prediction by Planning using Deep Neural Networks (**Eike Rehder**, Mercedes-Benz AG)
+|16:45 - 17:00 | *Coffee break*
+|17:00 - 17:30 | *Moderated Panel Discussion:* Requirements for Interactive Prediction and Planning Benchmarking (**Ö. Sahin Tas**, chair)
 
 
 # Organizers

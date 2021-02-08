@@ -35,3 +35,6 @@ The topics of interest of the workshop include, but are not limited to,
 - **Prof. Arnaud de La Fortelle**, MINES ParisTech
 - **Prof. Christoph Stiller**, Karlsruhe Institute of Technology (KIT)
 
+## Past Editions
+
+At IV2020, the organizers hosted a previous edition of this workshop: [https://sites.google.com/berkeley.edu/iv20-interaction](https://sites.google.com/berkeley.edu/iv20-interaction).

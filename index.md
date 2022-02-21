@@ -51,7 +51,7 @@ The workshop is jointly organized by researchers from Karlsruhe Institute of Tec
 - **Haohao Hu**, PhD Student at Karlsruhe Institute of Technology
 - **Florian Ries**, Development Engineer at Mercedes-Benz AG
 - **Ömer Şahin Taş**, Manager at FZI Research Center for Information Technology
-- **Martin Haueis**, Head of R&D Vehicle Localization Group, Mercedes-Benz AG
+- **Martin Haueis**, Head of R&D Vehicle Localization Group at Mercedes-Benz AG
 - **Martin Lauer**, Research Group Leader at Karlsruhe Institute of Technology
 - **Thao Dang**, Professor at University of Applied Sciences Esslingen
 
@@ -61,4 +61,4 @@ We plan to invite speakers from academia and industry. More information will be 
 
 ## Program
 
-tbd 
+We plan to host a full day workshop. More information will be available shortly.

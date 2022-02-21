@@ -1,3 +1,11 @@
 main:
-  - title: "IEEE IV 2022"
-    url: https://iv2022.com/
+  - title: "Scope & Topics"
+    url: /#scope-and-topics
+  - title: "Contributions"
+    url: /#contributions
+  - title: "Organizers"
+    url: /#organizers
+  - title: "Invited Speakers"
+    url: /#invited-speakers
+  - title: "Program"
+    url: /#program  

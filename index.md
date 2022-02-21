@@ -9,7 +9,7 @@ title: 'Bridging the gap between map-based and map-less driving'
 excerpt: 'An upcoming IV2022 workshop'
 ---
 
-This workshop has been accepted at the [33nd IEEE Intelligent Vehicles Symposium (IV)](https://iv2022.com/) and will take place on July 5th in Aachen, Germany. It addresses researchers who target the deployment of fully automated driving in large-scale, changing environments and have to consider both uncertainty-affected perception and potentially outdated HD maps. The workshop will particularly benefit from the discussions between experts from a wide range of specializations such as behavior and motion planning, prediction, localization and mapping and environmental modelling. Also, we aim for the exchange between developers from academia and industry who have already gained experience with their research vehicles on public roads.
+This workshop has been accepted at the [33nd IEEE Intelligent Vehicles Symposium (IV)](https://iv2022.com/) and will take place on July 5th in Aachen, Germany. It addresses researchers who target the deployment of fully automated driving in large-scale, changing environments and have to consider both uncertainty-affected perception and potentially outdated HD maps. The workshop will particularly benefit from the discussions between experts from a wide range of specializations such as behavior and motion planning, prediction, localization and mapping and environmental modelling. Also, we also aim for the exchange between developers from academia and industry who have already gained experience with their research vehicles on public roads.
 
 ## Scope and Topics
 

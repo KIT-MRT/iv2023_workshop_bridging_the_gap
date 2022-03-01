@@ -29,7 +29,7 @@ The topics of interest of the workshop include, but are not limited to:
 
 ## Contributions
 
- Accepted papers will be published in the conference proceeding. Papers should not exceed 6 pages (two additional pages allowed with a fee) and meet the requirements stated in the [IEEE IV 2022 Guidelines](https://iv2022.com/program/review-guidelines/). Each paper will undergo a peer-reviewing process by at least two independent reviewers. Contributions will be reviewed according to relevance, originality and novel ideas, technical soundness and quality of presentation.
+ Accepted papers will be published in the conference proceeding. Papers should not exceed 6 pages (two additional pages allowed with a fee) and meet the requirements stated in the [IEEE IV 2022 Guidelines](https://iv2022.com/program/review-guidelines/). Each paper will undergo a peer-reviewing process by at least three independent reviewers. Contributions will be reviewed according to relevance, originality and novel ideas, technical soundness and quality of presentation.
 
 Authors are encouraged to submit high-quality, original (i.e. not been previously published or accepted for publication in substantially similar form in any peer-reviewed venue including journal, conference or workshop) research. Authors of accepted workshop papers will have their paper published in the conference proceeding. For publication, at least one author needs to be registered for the workshop and the conference and present their work.
 

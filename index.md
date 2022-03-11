@@ -37,7 +37,7 @@ Please check the conference webpage for the details of submission guidelines - s
 - **Workshop paper submission deadline**: March 15th, 2022 (**extended!**)
 - **Acceptance/rejection notification**: May 22th, 2022
 - **Final workshop paper due**: May 1st, 2022
-- **Workshop day**: July 5th, 2022
+- **Workshop day**: June 5th, 2022
 
 <!---
 While preparing your manuscript, please follow the formatting guidelines of IEEE available here and listed below. Papers submitted to this workshop as well as IV2022 must be original, not previously published or accepted for publication elsewhere, and they must not be submitted to any other event or publication during the entire review process.

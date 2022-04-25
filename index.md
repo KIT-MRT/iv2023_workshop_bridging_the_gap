@@ -35,7 +35,7 @@ Authors are encouraged to submit high-quality, original (i.e. not been previousl
 
 Please check the conference webpage for the details of submission guidelines - see [https://iv2022.com/workshops/](https://iv2022.com/workshops/). The Papercept submission code is 66666. Important dates (updated February 21th):  
 - **Workshop paper submission deadline**: March 15th, 2022 (**extended!**)
-- **Acceptance/rejection notification**: May 22th, 2022
+- **Acceptance/rejection notification**: April 22th, 2022
 - **Final workshop paper due**: May 1st, 2022
 - **Workshop day**: June 5th, 2022
 

@@ -59,10 +59,17 @@ The workshop is jointly organized by researchers from Karlsruhe Institute of Tec
 
 ## Tentative Program
 
-# Final Program
-
 |Time (EEST)   | Title (Speaker)                 |
 |--------------|--------------------------------------|
-|12:30 - 1 | Introduction (**Frank Bieder**, **Ö. Sahin Tas**, chair)
-|1 - 1 | YOLinO: Generic Single Shot Polyline Detection in Real Time (**Annika Meyer**, Keynote)
-|1 - 1 | *Coffee break*
+|12:25 - 12:50 | Introduction (**Frank Bieder**, **Ö. Sahin Tas**, chair)
+|12:50 - 13:15 | YOLinO: Generic Single Shot Polyline Detection in Real Time (**Annika Meyer**, Keynote)
+|13:15 - 13:45 | tbd (**Eren Erdal Aksoy**, Keynote)
+|13:45 - 14:15 | tbd (**Igor Gilitschenski**, Keynote)
+|14:15 - 14:45 | A data-driven (r)evolution: From nuScenes to nuPlan and beyond (**Holger Caesar**, Keynote)
+|14:45 - 15:30 | *Coffee break*
+|15:30 - 15:50 | A Monte Carlo particle filter formulation for mapless-based localization (**Andre ́ Przewodowski**, Contributed Workshop Paper)
+|15:50 - 16:10 | HD maps: Exploiting OpenDRIVE potential for Path Planning and Map Monitoring (**Alejandro Diaz**, Invited Talk)
+|16:10 - 16:30 | HD Lane Map Generation Based on Trail Map Aggregation (**Pascal Colling**, Invited Talk)
+|16:30 - 16:50 | Clothoidal Mapping of Road Line Markings for Autonomous Driving High-Definition Maps (**Barbara Gallazzi**, Invited Talk)
+|16:50 - 17:00 | Conclusion and Farwell (**Frank Bieder**, **Ö. Sahin Tas**, chair)
+

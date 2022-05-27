@@ -51,6 +51,8 @@ The workshop is jointly organized by researchers from Karlsruhe Institute of Tec
 - **Haohao Hu**, PhD Student at Karlsruhe Institute of Technology
 - **Florian Ries**, Development Engineer at Mercedes-Benz AG
 - **Ömer Şahin Taş**, Manager at FZI Research Center for Information Technology
+- **Frank Schuster**, Development Engineer at Mercedes-Benz AG
+- **Mohammad Ghanaat**, Development Engineer at Mercedes-Benz AG
 - **Martin Haueis**, Head of R&D Vehicle Localization Group at Mercedes-Benz AG
 - **Martin Lauer**, Research Group Leader at Karlsruhe Institute of Technology
 - **Thao Dang**, Professor at University of Applied Sciences Esslingen

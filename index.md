@@ -57,10 +57,12 @@ The workshop is jointly organized by researchers from Karlsruhe Institute of Tec
 - **Martin Lauer**, Research Group Leader at Karlsruhe Institute of Technology
 - **Thao Dang**, Professor at University of Applied Sciences Esslingen
 
-## Invited Speakers
+## Tentative Program
 
-We plan to invite speakers from academia and industry. More information will be available shortly.
+# Final Program
 
-## Program
-
-We plan to host a full day workshop. More information will be available shortly.
+|Time (EEST)   | Title (Speaker)                 |
+|--------------|--------------------------------------|
+|12:30 - 1 | Introduction (**Frank Bieder**, **Ö. Sahin Tas**, chair)
+|1 - 1 | YOLinO: Generic Single Shot Polyline Detection in Real Time (**Annika Meyer**, Keynote)
+|1 - 1 | *Coffee break*

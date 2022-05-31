@@ -59,7 +59,7 @@ The workshop is jointly organized by researchers from Karlsruhe Institute of Tec
 
 ## Tentative Program
 
-|Time (EEST)   | Title (Speaker)                 |
+|Time (CEST)   | Title (Speaker)                 |
 |--------------|--------------------------------------|
 |12:25 - 12:50 | Introduction (**Frank Bieder**, **Ö. Sahin Tas**, chair)
 |12:50 - 13:15 | YOLinO: Generic Single Shot Polyline Detection in Real Time (**Annika Meyer**, Keynote)

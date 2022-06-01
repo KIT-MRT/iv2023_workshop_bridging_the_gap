@@ -63,7 +63,7 @@ The workshop is jointly organized by researchers from Karlsruhe Institute of Tec
 |--------------|--------------------------------------|
 |12:25 - 12:50 | Introduction (**Frank Bieder**, **Ö. Sahin Tas**, chair)
 |12:50 - 13:15 | YOLinO: Generic Single Shot Polyline Detection in Real Time (**Annika Meyer**, Keynote)
-|13:15 - 13:45 | tbd (**Eren Erdal Aksoy**, Keynote)
+|13:15 - 13:45 | Seeing Without a Camera: Going from LiDAR Point Clouds to Panoramic Color Images (**Eren Erdal Aksoy**, Keynote)
 |13:45 - 14:15 | tbd (**Igor Gilitschenski**, Keynote)
 |14:15 - 14:45 | A data-driven (r)evolution: From nuScenes to nuPlan and beyond (**Holger Caesar**, Keynote)
 |14:45 - 15:30 | *Coffee break*

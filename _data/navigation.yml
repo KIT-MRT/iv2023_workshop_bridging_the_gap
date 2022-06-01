@@ -1,9 +1,9 @@
 main:
+  - title: "Program"
+    url: /#workshop-program  
   - title: "Scope & Topics"
     url: /#scope-and-topics
   - title: "Contributions"
     url: /#contributions
   - title: "Organizers"
     url: /#organizers
-  - title: "Program"
-    url: /#workshop-program  

@@ -21,7 +21,7 @@ This workshop has been accepted at the [33nd IEEE Intelligent Vehicles Symposium
 |13:45 - 14:15 | tbd (**Igor Gilitschenski**, Keynote)
 |14:15 - 14:45 | A data-driven (r)evolution: From nuScenes to nuPlan and beyond (**Holger Caesar**, Keynote)
 |14:45 - 15:30 | *Coffee break*
-|15:30 - 15:50 | A Monte Carlo particle filter formulation for mapless-based localization (**Andre ́ Przewodowski**, Contributed Workshop Paper)
+|15:30 - 15:50 | A Monte Carlo particle filter formulation for mapless-based localization (**André Przewodowski**, Contributed Workshop Paper)
 |15:50 - 16:10 | HD maps: Exploiting OpenDRIVE potential for Path Planning and Map Monitoring (**Alejandro Diaz**, Invited Talk)
 |16:10 - 16:30 | HD Lane Map Generation Based on Trail Map Aggregation (**Pascal Colling**, Invited Talk)
 |16:30 - 16:50 | Clothoidal Mapping of Road Line Markings for Autonomous Driving High-Definition Maps (**Barbara Gallazzi**, Invited Talk)

@@ -11,6 +11,23 @@ excerpt: 'An upcoming IV2022 workshop'
 
 This workshop has been accepted at the [33nd IEEE Intelligent Vehicles Symposium (IV)](https://iv2022.com/) and will take place on June 5th in Aachen, Germany. It addresses researchers who target the deployment of fully automated driving in large-scale, changing environments and have to consider both uncertainty-affected perception and potentially outdated HD maps. The workshop will particularly benefit from the discussions between experts from a wide range of specializations such as behavior and motion planning, prediction, localization and mapping and environmental modelling. Also, we aim for the exchange between developers from academia and industry who have already gained experience with their research vehicles on public roads.
 
+## Workshop Program
+
+|Time (CEST)   | Title (Speaker)                 |
+|--------------|--------------------------------------|
+|12:25 - 12:50 | Introduction (**Frank Bieder**, **Ö. Sahin Tas**, chair)
+|12:50 - 13:15 | YOLinO: Generic Single Shot Polyline Detection in Real Time (**Annika Meyer**, Keynote)
+|13:15 - 13:45 | Seeing Without a Camera: Going from LiDAR Point Clouds to Panoramic Color Images (**Eren Erdal Aksoy**, Keynote)
+|13:45 - 14:15 | tbd (**Igor Gilitschenski**, Keynote)
+|14:15 - 14:45 | A data-driven (r)evolution: From nuScenes to nuPlan and beyond (**Holger Caesar**, Keynote)
+|14:45 - 15:30 | *Coffee break*
+|15:30 - 15:50 | A Monte Carlo particle filter formulation for mapless-based localization (**Andre ́ Przewodowski**, Contributed Workshop Paper)
+|15:50 - 16:10 | HD maps: Exploiting OpenDRIVE potential for Path Planning and Map Monitoring (**Alejandro Diaz**, Invited Talk)
+|16:10 - 16:30 | HD Lane Map Generation Based on Trail Map Aggregation (**Pascal Colling**, Invited Talk)
+|16:30 - 16:50 | Clothoidal Mapping of Road Line Markings for Autonomous Driving High-Definition Maps (**Barbara Gallazzi**, Invited Talk)
+|16:50 - 17:00 | Conclusion and Farwell (**Frank Bieder**, **Ö. Sahin Tas**, chair)
+
+
 ## Scope and Topics
 
 Today, most automated driving systems still heavily depend on HD maps. They serve as a crucial information source for various safety-critical tasks such as localization, prediction and behavior planning. By not suffeing from limited range, affected by occlusions or dependent on favorable weather/light conditions, HD maps extend the foresight of an autonomous system and the robustness towards sensor failure. At the same time HD maps are expensive to acquire and even more expensive to maintain due to frequent changes of the environment. Even with huge efforts in keeping HD maps updated, they stay a snapshot of the past and can obtain outdated information, while being a crucial requirement for map-based driving. In light of this situation, many researchers tackle the future vision of map-less driving: The recent developments in sensor, sensor fusion and machine learning technologies enable a rapidly improving online modeling of the vehicle’s surrounding and on-the-fly estimation of HD map information. While there are already many approaches to predict the surrounding semantics and detect/track objects, current research also addresses the online estimation of higher-level scene understanding layers such as lane topology and traffic rules. 
@@ -57,19 +74,4 @@ The workshop is jointly organized by researchers from Karlsruhe Institute of Tec
 - **Martin Lauer**, Research Group Leader at Karlsruhe Institute of Technology
 - **Thao Dang**, Professor at University of Applied Sciences Esslingen
 
-## Workshop Program
-
-|Time (CEST)   | Title (Speaker)                 |
-|--------------|--------------------------------------|
-|12:25 - 12:50 | Introduction (**Frank Bieder**, **Ö. Sahin Tas**, chair)
-|12:50 - 13:15 | YOLinO: Generic Single Shot Polyline Detection in Real Time (**Annika Meyer**, Keynote)
-|13:15 - 13:45 | Seeing Without a Camera: Going from LiDAR Point Clouds to Panoramic Color Images (**Eren Erdal Aksoy**, Keynote)
-|13:45 - 14:15 | tbd (**Igor Gilitschenski**, Keynote)
-|14:15 - 14:45 | A data-driven (r)evolution: From nuScenes to nuPlan and beyond (**Holger Caesar**, Keynote)
-|14:45 - 15:30 | *Coffee break*
-|15:30 - 15:50 | A Monte Carlo particle filter formulation for mapless-based localization (**Andre ́ Przewodowski**, Contributed Workshop Paper)
-|15:50 - 16:10 | HD maps: Exploiting OpenDRIVE potential for Path Planning and Map Monitoring (**Alejandro Diaz**, Invited Talk)
-|16:10 - 16:30 | HD Lane Map Generation Based on Trail Map Aggregation (**Pascal Colling**, Invited Talk)
-|16:30 - 16:50 | Clothoidal Mapping of Road Line Markings for Autonomous Driving High-Definition Maps (**Barbara Gallazzi**, Invited Talk)
-|16:50 - 17:00 | Conclusion and Farwell (**Frank Bieder**, **Ö. Sahin Tas**, chair)
 

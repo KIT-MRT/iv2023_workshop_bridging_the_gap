@@ -57,7 +57,7 @@ The workshop is jointly organized by researchers from Karlsruhe Institute of Tec
 - **Martin Lauer**, Research Group Leader at Karlsruhe Institute of Technology
 - **Thao Dang**, Professor at University of Applied Sciences Esslingen
 
-## Tentative Program
+## Workshop Program
 
 |Time (CEST)   | Title (Speaker)                 |
 |--------------|--------------------------------------|

@@ -20,11 +20,11 @@ This workshop has been accepted at the [33nd IEEE Intelligent Vehicles Symposium
 |13:15 - 13:45 | **Seeing Without a Camera: Going from LiDAR Point Clouds to Panoramic Color Images** ([Eren Erdal Aksoy](https://aksoyeren.github.io/), Keynote)
 |13:45 - 14:15 | tbd ([Igor Gilitschenski](https://www.gilitschenski.org/igor/), Keynote)
 |14:15 - 14:45 | **A data-driven (r)evolution: From nuScenes to nuPlan and beyond** ([Holger Caesar](https://sites.google.com/it-caesar.de/homepage/), Keynote)
-|14:45 - 15:30 | ** *Coffee break* **
+|14:45 - 15:30 | *Coffee break*
 |15:30 - 15:50 | **A Monte Carlo particle filter formulation for mapless-based localization** ([André Przewodowski](https://cabraile.github.io/), Contributed Workshop Paper)
 |15:50 - 16:10 | **HD maps: Exploiting OpenDRIVE potential for Path Planning and Map Monitoring** ([Alejandro Diaz](https://scholar.google.com.tr/citations?user=A4Uv_3sAAAAJ&hl=en), Invited Talk)
 |16:10 - 16:30 | **HD Lane Map Generation Based on Trail Map Aggregation** ([Pascal Colling](https://www.researchgate.net/profile/Pascal-Colling-2), Invited Talk)
-|16:30 - 16:50 | **Clothoidal Mapping of Road Line Markings for Autonomous Driving High-Definition Maps ([Barbara Gallazzi](https://it.linkedin.com/in/barbara-gallazzi), Invited Talk)
+|16:30 - 16:50 | **Clothoidal Mapping of Road Line Markings for Autonomous Driving High-Definition Maps** ([Barbara Gallazzi](https://it.linkedin.com/in/barbara-gallazzi), Invited Talk)
 |16:50 - 17:00 | **Conclusion and Farwell** ([Frank Bieder](https://www.mrt.kit.edu/mitarbeiter_bieder.php)**, **[Ö. Sahin Tas](https://www.omersahintas.com/), chair)
 
 

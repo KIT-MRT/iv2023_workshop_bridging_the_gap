@@ -17,7 +17,7 @@ This workshop has been accepted at the [33nd IEEE Intelligent Vehicles Symposium
 |Time (CEST)   | Title                  | Speaker |
 |--------------|--------------------------------------|-----------|
 |12:25 - 12:50 | **Introduction** | [Frank Bieder](https://www.mrt.kit.edu/mitarbeiter_bieder.php), [Ö. Sahin Tas](https://www.omersahintas.com/) - KIT & FZI, Germany (chair)
-|12:50 - 13:15 | **YOLinO: Generic Single Shot Polyline Detection in Real Time** | [Annika Meyer](https://www.mrt.kit.edu/mitarbeiter_meyer.php) - KIT, Germany (Keynote)
+|12:50 - 13:15 | **Map Perception for Mapless Urban Automated Driving** | [Annika Meyer](https://www.mrt.kit.edu/mitarbeiter_meyer.php) - KIT, Germany (Keynote)
 |13:15 - 13:45 | **Seeing Without a Camera: Going from LiDAR Point Clouds to Panoramic Color Images** | [Eren Erdal Aksoy](https://aksoyeren.github.io/) - Halmstadt University, Sweden (Keynote)
 |13:45 - 14:15 | **Which Maps are Needed for Autonomous Driving?** | [Igor Gilitschenski](https://www.gilitschenski.org/igor/) - University of Toronto, Canada (Keynote)
 |14:15 - 14:45 | **A data-driven (r)evolution: From nuScenes to nuPlan and beyond** | [Holger Caesar](https://sites.google.com/it-caesar.de/homepage/) - TU Delft, the Netherlands (Keynote)

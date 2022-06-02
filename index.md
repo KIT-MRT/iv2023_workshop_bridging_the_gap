@@ -26,7 +26,7 @@ This workshop has been accepted at the [33nd IEEE Intelligent Vehicles Symposium
 |15:50 - 16:10 | **HD maps: Exploiting OpenDRIVE potential for Path Planning and Map Monitoring** | [Alejandro Diaz](https://scholar.google.com.tr/citations?user=A4Uv_3sAAAAJ&hl=en) - University of Alcala, Spain
 |16:10 - 16:30 | **HD Lane Map Generation Based on Trail Map Aggregation** | [Pascal Colling](https://www.researchgate.net/profile/Pascal-Colling-2), Aptiv & Univ. Wuppertal, Germany
 |16:30 - 16:50 | **Clothoidal Mapping of Road Line Markings for Autonomous Driving High-Definition Maps** | [Barbara Gallazzi](https://it.linkedin.com/in/barbara-gallazzi) - Politecnico di Milano, Italy
-|16:50 - 17:00 | **Conclusion and Farwell** | [Frank Bieder](https://www.mrt.kit.edu/mitarbeiter_bieder.php), [Ö. Sahin Tas](https://www.omersahintas.com/) - KIT & FZI, Germany)
+|16:50 - 17:00 | **Conclusion and Farwell** | [Frank Bieder](https://www.mrt.kit.edu/mitarbeiter_bieder.php), [Ö. Sahin Tas](https://www.omersahintas.com/) - KIT & FZI, Germany
 
 
 

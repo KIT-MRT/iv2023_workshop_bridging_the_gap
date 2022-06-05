@@ -12,7 +12,7 @@ excerpt: 'An upcoming IV2022 workshop'
 This workshop has been accepted at the [33nd IEEE Intelligent Vehicles Symposium (IV)](https://iv2022.com/) and will take place on June 5th in Aachen, Germany. It addresses researchers who target the deployment of fully automated driving in large-scale, changing environments and have to consider both uncertainty-affected perception and potentially outdated HD maps. The workshop will particularly benefit from the discussions between experts from a wide range of specializations such as behavior and motion planning, prediction, localization and mapping and environmental modelling. Also, we aim for the exchange between developers from academia and industry who have already gained experience with their research vehicles on public roads.
 
 ## Workshop Program
-The workshop will be organized in a hybrid format. If you wish to participate online, please contact bieder@fzi.de and attach your workshop registration. 
+The workshop will be organized in a hybrid format. Starting from 12:25, our session will take place in Room K7 at Eurogress Aachen. If you wish to participate online, please contact bieder@fzi.de and attach your workshop registration. 
 
 |Time (CEST)   | Title                  | Speaker |
 |--------------|--------------------------------------|-----------|

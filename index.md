@@ -16,7 +16,7 @@ The workshop will be organized in a hybrid format. Starting from 12:25, our sess
 
 |Time (CEST)   | Title                  | Speaker |
 |--------------|--------------------------------------|-----------|
-|12:25 - 12:50 | **Introduction** | [Frank Bieder](https://www.mrt.kit.edu/mitarbeiter_bieder.php), [Ö. Sahin Tas](https://www.omersahintas.com/) - KIT & FZI, Germany (chair)
+|12:25 - 12:50 | **Introduction** | [Frank Bieder](https://www.mrt.kit.edu/mitarbeiter_bieder.php), [Ö. Sahin Tas](https://www.omersahintas.com/) - KIT & FZI, Germany (chairs)
 |12:50 - 13:15 | **Map Perception for Mapless Urban Automated Driving** | [Annika Meyer](https://www.mrt.kit.edu/mitarbeiter_meyer.php) - KIT, Germany (Keynote)
 |13:15 - 13:45 | **Seeing Without a Camera: Going from LiDAR Point Clouds to Panoramic Color Images** | [Eren Erdal Aksoy](https://aksoyeren.github.io/) - Halmstadt University, Sweden (Keynote)
 |13:45 - 14:15 | **Which Maps are Needed for Autonomous Driving?** | [Igor Gilitschenski](https://www.gilitschenski.org/igor/) - University of Toronto, Canada (Keynote)

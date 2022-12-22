@@ -52,7 +52,7 @@ The workshop is jointly organized by researchers from Karlsruhe Institute of Tec
 - **Frank Bieder**, PhD Student at FZI Research Center for Information Technology
 - **Richard Fehler**, PhD Student at FZI Research Center for Information Technology
 - **Fabian Immel**, PhD Student at FZI Research Center for Information Technology
-- **Ömer Şahin Taş**, Manager at FZI Research Center for Information Technology
+- **Ömer Şahin Taş**, Research Group Leader at FZI Research Center for Information Technology
 - **Martin Lauer**, Research Group Leader at Karlsruhe Institute of Technology
 
 

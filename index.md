@@ -35,11 +35,11 @@ Authors are encouraged to submit high-quality, original (i.e. not been previousl
 
 
 
-Please check the conference webpage for the details of submission guidelines - see [https://iv2022.com/workshops/](https://iv2022.com/workshops/). The Papercept submission code is 66666. Important dates (updated February 21th):  
+Please check the conference webpage for the details of submission guidelines - see [https://2023.ieee-iv.org/workshops/](https://2023.ieee-iv.org/workshops/). The Papercept submission code is 66666. Important dates (updated February 21th):  
 - **Workshop paper submission deadline**: February 01st, 2023
 - **Acceptance/rejection notification**: March 30th, 2023
 - **Final workshop paper due**: April 22nd, 2023
-- **Workshop day**: June 4th, 2022
+- **Workshop day**: June 4th, 2023
 
 <!---
 While preparing your manuscript, please follow the formatting guidelines of IEEE available here and listed below. Papers submitted to this workshop as well as IV2022 must be original, not previously published or accepted for publication elsewhere, and they must not be submitted to any other event or publication during the entire review process.

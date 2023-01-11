@@ -37,10 +37,6 @@ Important dates
 - **Final workshop paper due**: April 22nd, 2023
 - **Workshop day**: June 4th, 2023
 
-<!---
-While preparing your manuscript, please follow the formatting guidelines of IEEE available here and listed below. Papers submitted to this workshop as well as IV2022 must be original, not previously published or accepted for publication elsewhere, and they must not be submitted to any other event or publication during the entire review process.
--->
-
 ## Organizers
 
 The workshop is jointly organized by researchers from Karlsruhe Institute of Technology und FZI Research Institute of Information Technology. The organizers are:

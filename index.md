@@ -29,7 +29,7 @@ The topics of interest of the workshop include, but are not limited to:
 
 ## Contributions
 
-Authors are encouraged to submit high-quality, original (i.e. not been previously published or accepted for publication in substantially similar form in any peer-reviewed venue including journal, conference or workshop) research via the [Submission Link](https://edas.info/newPaper.php?c=30459&track=115618). Here the workshop can be selected from a list. Papers should not exceed 6 pages (two additional pages allowed with a fee) and meet the requirements stated in the [IEEE IV 2023 Guidelines](https://2023.ieee-iv.org/paper-submission/). Authors of accepted workshop papers will have their paper published in the conference proceeding. For publication, at least one author needs to be registered for the workshop and the conference and present their work.
+Authors are encouraged to submit high-quality, original (i.e. not been previously published or accepted for publication in substantially similar form in any peer-reviewed venue including journal, conference or workshop) research via the [submission link](https://edas.info/newPaper.php?c=30459&track=115618). Here the workshop can be selected from a list. Papers should not exceed 6 pages (two additional pages allowed with a fee) and meet the requirements stated in the [IEEE IV 2023 Guidelines](https://2023.ieee-iv.org/paper-submission/). Authors of accepted workshop papers will have their paper published in the conference proceeding. For publication, at least one author needs to be registered for the workshop and the conference and present their work.
 
 Important dates
 - **Workshop paper submission deadline**: February 01st, 2023

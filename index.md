@@ -29,13 +29,9 @@ The topics of interest of the workshop include, but are not limited to:
 
 ## Contributions
 
- Accepted papers will be published in the conference proceeding. Papers should not exceed 6 pages (two additional pages allowed with a fee) and meet the requirements stated in the [IEEE IV 2023 Guidelines](https://2023.ieee-iv.org/paper-submission/). Each paper will undergo a peer-reviewing process by at least three independent reviewers. Contributions will be reviewed according to relevance, originality and novel ideas, technical soundness and quality of presentation.
+Authors are encouraged to submit high-quality, original (i.e. not been previously published or accepted for publication in substantially similar form in any peer-reviewed venue including journal, conference or workshop) research via the [Submission Link](https://edas.info/newPaper.php?c=30459&track=115618). Here the workshop can be selected from a list. Papers should not exceed 6 pages (two additional pages allowed with a fee) and meet the requirements stated in the [IEEE IV 2023 Guidelines](https://2023.ieee-iv.org/paper-submission/). Authors of accepted workshop papers will have their paper published in the conference proceeding. For publication, at least one author needs to be registered for the workshop and the conference and present their work.
 
-Authors are encouraged to submit high-quality, original (i.e. not been previously published or accepted for publication in substantially similar form in any peer-reviewed venue including journal, conference or workshop) research. Authors of accepted workshop papers will have their paper published in the conference proceeding. For publication, at least one author needs to be registered for the workshop and the conference and present their work.
-
-
-
-Please check the conference webpage for the details of submission guidelines - see [https://2023.ieee-iv.org/workshops/](https://2023.ieee-iv.org/workshops/). The Papercept submission code is 66666. Important dates (updated February 21th):  
+Important dates
 - **Workshop paper submission deadline**: February 01st, 2023
 - **Acceptance/rejection notification**: March 30th, 2023
 - **Final workshop paper due**: April 22nd, 2023

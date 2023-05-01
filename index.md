@@ -11,8 +11,8 @@ excerpt: 'An upcoming IV2023 workshop'
 
 This workshop has been accepted at the [34nd IEEE Intelligent Vehicles Symposium (IV)](https://2023.ieee-iv.org/) and will take place on June 4th in Anchorage (Alaska), USA. It addresses researchers who target the deployment of fully automated driving in large-scale, changing environments and have to consider both uncertainty-affected perception and potentially outdated HD maps. The workshop will particularly benefit from the discussions between experts from a wide range of specializations such as behavior and motion planning, prediction, localization and mapping and environmental modelling. Also, we aim for the exchange between developers from academia and industry who have already gained experience with their research vehicles on public roads.
 
-## Workshop Program
-The workshop will be organized in a hybrid format. Starting from 12:25, our session will take place in Room K7 at Eurogress Aachen. If you wish to participate online, please contact bieder@fzi.de and attach your workshop registration. 
+## Tentative Workshop Program
+Starting from 8:30, our session will take place in Room 6 at the Egan and Dena’ina convention centers. Plese be aware that this is the tenatative time shedule, which may varry until mid May.
 
 |Time (CEST)   | Title                  | Speaker |
 |--------------|--------------------------------------|-----------|
@@ -24,7 +24,7 @@ The workshop will be organized in a hybrid format. Starting from 12:25, our sess
 |10:35 - 11:10 | **Combining map-based and map-less driving** | [Richard Fehler ](https://www.linkedin.com/in/richard-fehler/?originalSubdomain=de) - FZI Forschungszentrum Informatik, Karlsruhe
 |11:10 - 11:20 | *Coffee break*
 |11:20 - 11:45 | **Map-Aided Annotation for Pole Base Detection** | [Benjamin Missaoui](https://kit-mrt.github.io/iv2023_workshop_bridging_the_gap) - UTC, France
-|11:45 - 12:20 | **Unconfirmed Talk** | Unconfirmed Speaker
+|11:45 - 12:20 | **TBD** | TBD
 |12:20 - 12:30 | **Conclusion and Farewell** | [Frank Bieder](https://www.mrt.kit.edu/mitarbeiter_bieder.php) & [Ö. Sahin Tas](https://www.omersahintas.com/) - KIT & FZI, Germany
 
 

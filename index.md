@@ -16,16 +16,16 @@ The workshop will be organized in a hybrid format. Starting from 12:25, our sess
 
 |Time (CEST)   | Title                  | Speaker |
 |--------------|--------------------------------------|-----------|
-|08:30 - 8:40 | **Introduction** | [Frank Bieder](https://www.mrt.kit.edu/mitarbeiter_bieder.php), [Ö. Sahin Tas](https://www.omersahintas.com/) - KIT & FZI, Germany (chairs)
+|08:30 - 8:40 | **Introduction** | [Frank Bieder](https://www.mrt.kit.edu/mitarbeiter_bieder.php) & [Ö. Sahin Tas](https://www.omersahintas.com/) - KIT & FZI, Germany (chairs)
 |8:40 - 9:15 | **Vision-based autonomous drone** | [Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html) - University of Zurich, Switzerland (Keynote)
 |9:15 - 9:50 | **Online HD Map Learning for Automated Driving** | [Abhinav Valada](https://rl.uni-freiburg.de/people/valada) - University of Freiburg, Germany (Keynote)
 |9:50 - 10:00 | *Coffee break*
-|10:00 - 10:35 | **The Role of Maps in Next-Generation Autonomy Stacks** | [Boris Ivanovic](https://www.borisivanovic.com), [Marco Pavone](https://profiles.stanford.edu/marco-pavone) - Nvidia, Stanford, USA (Keynote)
+|10:00 - 10:35 | **The Role of Maps in Next-Generation Autonomy Stacks** | [Boris Ivanovic](https://www.borisivanovic.com) & [Marco Pavone](https://profiles.stanford.edu/marco-pavone) - Nvidia, Stanford, USA (Keynote)
 |10:35 - 11:10 | **Combining map-based and map-less driving** | [Richard Fehler ](https://www.linkedin.com/in/richard-fehler/?originalSubdomain=de) - FZI Forschungszentrum Informatik, Karlsruhe
 |11:10 - 11:20 | *Coffee break*
 |11:20 - 11:45 | **Map-Aided Annotation for Pole Base Detection** | [Benjamin Missaoui](https://kit-mrt.github.io/iv2023_workshop_bridging_the_gap) - UTC, France
 |11:45 - 12:20 | **Unconfirmed Talk** | Unconfirmed Speaker
-|12:20 - 12:30 | **Conclusion and Farewell** | [Frank Bieder](https://www.mrt.kit.edu/mitarbeiter_bieder.php), [Ö. Sahin Tas](https://www.omersahintas.com/) - KIT & FZI, Germany
+|12:20 - 12:30 | **Conclusion and Farewell** | [Frank Bieder](https://www.mrt.kit.edu/mitarbeiter_bieder.php) & [Ö. Sahin Tas](https://www.omersahintas.com/) - KIT & FZI, Germany
 
 
 ## Scope and Topics

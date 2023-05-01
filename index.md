@@ -24,7 +24,7 @@ The workshop will be organized in a hybrid format. Starting from 12:25, our sess
 |10:35 - 11:10 | **Combining map-based and map-less driving** | [Richard Fehler ](https://www.linkedin.com/in/richard-fehler/?originalSubdomain=de) - FZI Forschungszentrum Informatik, Karlsruhe
 |11:10 - 11:20 | *Coffee break*
 |11:20 - 11:45 | **Map-Aided Annotation for Pole Base Detection** | [Benjamin Missaoui](https://kit-mrt.github.io/iv2023_workshop_bridging_the_gap) - UTC, France
-|11:45 - 12:20 | **Unconfirmed Talk** | Unconfirmed Speaker - Unconfirmed company, Germany
+|11:45 - 12:20 | **Unconfirmed Talk** | Unconfirmed Speaker
 |12:20 - 12:30 | **Conclusion and Farewell** | [Frank Bieder](https://www.mrt.kit.edu/mitarbeiter_bieder.php), [Ö. Sahin Tas](https://www.omersahintas.com/) - KIT & FZI, Germany
 
 

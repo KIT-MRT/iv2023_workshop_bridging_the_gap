@@ -12,7 +12,7 @@ excerpt: 'An upcoming IV2023 workshop'
 This workshop has been accepted at the [34nd IEEE Intelligent Vehicles Symposium (IV)](https://2023.ieee-iv.org/) and will take place on June 4th in Anchorage (Alaska), USA. It addresses researchers who target the deployment of fully automated driving in large-scale, changing environments and have to consider both uncertainty-affected perception and potentially outdated HD maps. The workshop will particularly benefit from the discussions between experts from a wide range of specializations such as behavior and motion planning, prediction, localization and mapping and environmental modelling. Also, we aim for the exchange between developers from academia and industry who have already gained experience with their research vehicles on public roads.
 
 ## Tentative Workshop Program
-Starting from 8:30 AST, our session will take place in Room 6 at the Egan and Dena’ina convention centers. Please be aware that this is the tenatative time shedule, which may varry until mid May.
+Starting from 8:30 AST, our session will take place in Room 6 at the Egan and Dena’ina convention centers. Please be aware that this is the tenatative time schedule, which may varry until mid May.
 
 |Time (AST)   | Title                  | Speaker |
 |--------------|--------------------------------------|-----------|

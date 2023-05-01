@@ -11,6 +11,23 @@ excerpt: 'An upcoming IV2023 workshop'
 
 This workshop has been accepted at the [34nd IEEE Intelligent Vehicles Symposium (IV)](https://2023.ieee-iv.org/) and will take place on June 4th in Anchorage (Alaska), USA. It addresses researchers who target the deployment of fully automated driving in large-scale, changing environments and have to consider both uncertainty-affected perception and potentially outdated HD maps. The workshop will particularly benefit from the discussions between experts from a wide range of specializations such as behavior and motion planning, prediction, localization and mapping and environmental modelling. Also, we aim for the exchange between developers from academia and industry who have already gained experience with their research vehicles on public roads.
 
+## Workshop Program
+The workshop will be organized in a hybrid format. Starting from 12:25, our session will take place in Room K7 at Eurogress Aachen. If you wish to participate online, please contact bieder@fzi.de and attach your workshop registration. 
+
+|Time (CEST)   | Title                  | Speaker |
+|--------------|--------------------------------------|-----------|
+|08:30 - 8:40 | **Introduction** | [Frank Bieder](https://www.mrt.kit.edu/mitarbeiter_bieder.php), [Ö. Sahin Tas](https://www.omersahintas.com/) - KIT & FZI, Germany (chairs)
+|8:40 - 9:15 | **Vision-based autonomous drone** | [Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html) - University of Zurich, Switzerland (Keynote)
+|9:15 - 9:50 | **Online HD Map Learning for Automated Driving** | [Abhinav Valada](https://rl.uni-freiburg.de/people/valada) - University of Freiburg, Germany (Keynote)
+|9:50 - 10:00 | *Coffee break*
+|10:00 - 10:35 | **The Role of Maps in Next-Generation Autonomy Stacks** | [Boris Ivanovic](https://www.borisivanovic.com), [Marco Pavone](https://profiles.stanford.edu/marco-pavone) - Nvidia, Stanford, USA (Keynote)
+|10:35 - 11:10 | **Combining map-based and map-less driving** | [Richard Fehler ](https://www.linkedin.com/in/richard-fehler/?originalSubdomain=de) - FZI Forschungszentrum Informatik, Karlsruhe
+|11:10 - 11:20 | *Coffee break*
+|11:20 - 11:45 | **Map-Aided Annotation for Pole Base Detection** | [Benjamin Missaoui](https://kit-mrt.github.io/iv2023_workshop_bridging_the_gap) - UTC, France
+|11:45 - 12:20 | **Unconfirmed Talk** | Unconfirmed Speaker - Unconfirmed company, Germany
+|12:20 - 12:30 | **Conclusion and Farewell** | [Frank Bieder](https://www.mrt.kit.edu/mitarbeiter_bieder.php), [Ö. Sahin Tas](https://www.omersahintas.com/) - KIT & FZI, Germany
+
+
 ## Scope and Topics
 
 Today, most automated driving systems still heavily depend on HD maps. They serve as a crucial information source for various safety-critical tasks such as localization, prediction and behavior planning. By not suffering from limited range, affected by occlusions or dependent on favorable weather/light conditions, HD maps extend the foresight of an autonomous system and the robustness towards sensor failure. At the same time HD maps are expensive to acquire and even more expensive to maintain due to frequent changes of the environment. Even with huge efforts in keeping HD maps updated, they stay a snapshot of the past and can obtain outdated information, while being a crucial requirement for map-based driving. In light of this situation, many researchers tackle the future vision of map-less driving: The recent developments in sensor, sensor fusion and machine learning technologies enable a rapidly improving online modeling of the vehicle’s surrounding and on-the-fly estimation of HD map information. While there are already many approaches to predict the surrounding semantics and detect/track objects, current research also addresses the online estimation of higher-level scene understanding layers such as lane topology and traffic rules. 

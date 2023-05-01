@@ -17,7 +17,7 @@ Starting from 8:30, our session will take place in Room 6 at the Egan and Denaâ€
 |Time (CEST)   | Title                  | Speaker |
 |--------------|--------------------------------------|-----------|
 |08:30 - 8:40 | **Introduction** | [Frank Bieder](https://www.mrt.kit.edu/mitarbeiter_bieder.php) & [Ã–. Sahin Tas](https://www.omersahintas.com/) - KIT & FZI, Germany (chairs)
-|8:40 - 9:15 | **Vision-based Autonomous Drone** | [Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html) - University of Zurich, Switzerland (Keynote)
+|8:40 - 9:15 | **Vision-based Autonomous Drones** | [Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html) - University of Zurich, Switzerland (Keynote)
 |9:15 - 9:50 | **Online HD Map Learning for Automated Driving** | [Abhinav Valada](https://rl.uni-freiburg.de/people/valada) - University of Freiburg, Germany (Keynote)
 |9:50 - 10:00 | *Coffee break*
 |10:00 - 10:35 | **The Role of Maps in Next-Generation Autonomy Stacks** | [Boris Ivanovic](https://www.borisivanovic.com) & [Marco Pavone](https://profiles.stanford.edu/marco-pavone) - Nvidia, Stanford, USA (Keynote)

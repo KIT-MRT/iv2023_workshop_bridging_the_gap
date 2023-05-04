@@ -14,7 +14,7 @@ This workshop has been accepted at the [34nd IEEE Intelligent Vehicles Symposium
 ## Tentative Workshop Program
 Starting from 8:30 AST, our session will take place in Room 6 at the Egan and Dena’ina convention centers. Please be aware that this is the tenatative time schedule, which may varry until mid May.
 
-|Time (AST)   | Title                  | Speaker |
+|Time (AKDT)   | Title                  | Speaker |
 |--------------|--------------------------------------|-----------|
 |8:30 - 8:40 | **Introduction** | [Frank Bieder](https://www.mrt.kit.edu/mitarbeiter_bieder.php) & [Ö. Sahin Tas](https://www.omersahintas.com/) - KIT & FZI, Germany (chairs)
 |8:40 - 9:15 | **Vision-based Autonomous Drones** | [Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html) - University of Zurich, Switzerland (Keynote)
